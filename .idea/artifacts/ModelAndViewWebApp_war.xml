@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ModelAndViewWebApp:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/ModelAndViewWebApp_war</output-path>
+    <root id="archive" name="ModelAndViewWebApp_war.war">
+      <element id="artifact" artifact-name="ModelAndViewWebApp:war exploded" />
+    </root>
+  </artifact>
+</component>
